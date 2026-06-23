@@ -39,7 +39,7 @@ The second module acts as an interactive Procurement Interface (Request for Quot
 
 
 📦 How to Test the Project
-1. Clone this repository or download the Price_Engine.xlsm file [Download file]([https://github.com/gnovac/auto-price-analyser/raw/refs/heads/master/Price_Analyser.xlsm).
+1. Clone this repository or download the Price_Engine.xlsm file [Download file](https://github.com/gnovac/auto-price-analyser/raw/refs/heads/master/Price_Analyser.xlsm).
 2. Open the file in Microsoft Excel and Enable Macros.
 3. Optional: The core data sheets are hidden for UI clarity. To view the raw schema, unhide the data sheets or inspect the data/ folder in this repository.
 4. Go to the Analiza sheet, enter any part number from the provided [Download file]( https://github.com/gnovac/auto-price-analyser/raw/refs/heads/master/data/cennik_fake_data.xlsx) samples into Column B, and see the automated price mapping and styling engine in action.
