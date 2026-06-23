@@ -384,7 +384,7 @@ Sub ResetMemory()
     Set pDictZapas = Nothing ' Memory release for the storage cache dictionary
 End Sub
 
-Function LoadDataToDict(sheetName As String, keyCol As String, itemCols Variant) As Object
+Function LoadDataToDict(sheetName As String, keyCol As String, itemCols As Variant) As Object
     On Error GoTo ErrorHandler
     
     Dim dict As Object, ws As Worksheet, arrData As Variant
